@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078206926626",
+    "project_id": "monterrainci-628b0",
+    "storage_bucket": "monterrainci-628b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078206926626:android:ff3a3f126f27715a881f7b",
+        "android_client_info": {
+          "package_name": "ci.monterrain.monterrain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASbhAax7Bi2yxk4AlNjtFJsxOM5SYdK1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
